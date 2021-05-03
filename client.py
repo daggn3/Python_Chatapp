@@ -68,9 +68,6 @@ def recieve_message():
  
  
  
-"""We then create our Tkinter interface, I based this on the one supplied in the guides,
-I really wish i tried this before in the other assignments, its quite interesting and 
-straightforward to use."""
 
 graphic_interface = tkinter.Tk()
     
